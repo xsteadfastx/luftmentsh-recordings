@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Leaflet Quick Start Guide Example</title>
+	<title>Jerusalem Recordings</title>
 	<meta charset="utf-8" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,10 +22,10 @@
 			cloudmadeAttribution = 'Map data &copy; 2011 OpenStreetMap contributors, Imagery &copy; 2011 CloudMade',
 			cloudmade = new L.TileLayer(cloudmadeUrl, {maxZoom: 18, attribution: cloudmadeAttribution});
 
-		map.setView(new L.LatLng(51.505, -0.09), 13).addLayer(layer);
+		map.setView(new L.LatLng(49.435, 11.120), 13).addLayer(layer);
 
 
-		var markerLocation = new L.LatLng(51.5, -0.09),
+		var markerLocation = new L.LatLng(49.435, 11.120),
 			marker = new L.Marker(markerLocation);
 
 		map.addLayer(marker);
