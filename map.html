@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Leaflet Quick Start Guide Example</title>
+	<meta charset="utf-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="./leaflet.css" />
+	<!--[if lte IE 8]><link rel="stylesheet" href="../dist/leaflet.ie.css" /><![endif]-->
+</head>
+<body>
+	<div id="map"></div>
+
+	<script src="http://code.leafletjs.com/leaflet-0.3.1/leaflet.js"></script>
+	<script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js"></script>
+	<script>
+		var layer = new L.StamenTileLayer("toner");
+		var map = new L.Map('map');
+
+		var cloudmadeUrl = 'http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/997/256/{z}/{x}/{y}.png',
+			cloudmadeAttribution = 'Map data &copy; 2011 OpenStreetMap contributors, Imagery &copy; 2011 CloudMade',
+			cloudmade = new L.TileLayer(cloudmadeUrl, {maxZoom: 18, attribution: cloudmadeAttribution});
+
+		map.setView(new L.LatLng(51.505, -0.09), 13).addLayer(layer);
+
+
+		var markerLocation = new L.LatLng(51.5, -0.09),
+			marker = new L.Marker(markerLocation);
+
+		map.addLayer(marker);
+		marker.bindPopup("<b>Hello world!</b><br />I am a popup.").openPopup();
+
+		map.on('click', onMapClick);
+
+		var popup = new L.Popup();
+
+		function onMapClick(e) {
+			var latlngStr = '(' + e.latlng.lat.toFixed(3) + ', ' + e.latlng.lng.toFixed(3) + ')';
+
+			popup.setLatLng(e.latlng);
+			popup.setContent("You clicked the map at " + latlngStr);
+			map.openPopup(popup);
+		}
+	</script>
+</body>
+</html>
