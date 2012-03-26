@@ -22,7 +22,7 @@
 			cloudmadeAttribution = 'Map data &copy; 2011 OpenStreetMap contributors, Imagery &copy; 2011 CloudMade',
 			cloudmade = new L.TileLayer(cloudmadeUrl, {maxZoom: 18, attribution: cloudmadeAttribution});
 
-		map.setView(new L.LatLng(31.777, 35.225), 15).addLayer(layer);
+		map.setView(new L.LatLng(31.777, 35.225), 16).addLayer(layer);
 
 		var geojsonLayer = new L.GeoJSON(null, {
 		    pointToLayer: function (latlng){
@@ -38,9 +38,21 @@
 		});
 
 		var CafeRimon = {
-    			"type": "Point",
-        		"coordinates": [35.225, 31.777]
-		};
+			"type": "FeatureCollection",
+			"features": [
+				{
+					"geometry": {
+    						"type": "Point",
+        					"coordinates": [35.225, 31.777]
+					},
+					"type": "Feature",
+					"properties": {
+						"popupContent": "<img src='http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Marie_Antoinette_Young2.jpg/220px-Marie_Antoinette_Young2.jpg'>"
+					},
+					"id": 51
+				}
+			]
+		}
 
 		var AsianChoir = {
     			"type": "Point",
@@ -59,23 +71,17 @@
 
 		map.addLayer(geojsonLayer);
 
+		geojsonLayer.on("featureparse", function (e) {
+   			 if (e.properties && e.properties.popupContent){
+        			e.layer.bindPopup(e.properties.popupContent);
+    			}
+		});
+
 		geojsonLayer.addGeoJSON(AsianChoir);
 		geojsonLayer.addGeoJSON(BarMitzvah);
 		geojsonLayer.addGeoJSON(CafeRimon);
 		geojsonLayer.addGeoJSON(GardenTomb);
-	
-		map.on('click', onMapClick);
-
-		var popup = new L.Popup();
-
-		function onMapClick(e) {
-			var latlngStr = '(' + e.latlng.lat.toFixed(3) + ', ' + e.latlng.lng.toFixed(3) + ')';
-
-			popup.setLatLng(e.latlng);
-			popup.setContent("You clicked the map at " + latlngStr);
-			map.openPopup(popup);
-		}	
-
+			
 	</script>
 </body>
 </html>
