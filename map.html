@@ -42,9 +42,27 @@
         		"coordinates": [35.225, 31.777]
 		};
 
+		var AsianChoir = {
+    			"type": "Point",
+        		"coordinates": [35.2176736, 31.7814996]
+		}
+
+		var BarMitzvah = {
+    			"type": "Point",
+        		"coordinates": [35.23279, 31.77568]
+		}
+
+		var GardenTomb = {
+    			"type": "Point",
+        		"coordinates": [35.23036, 31.78368]
+		}
+
 		map.addLayer(geojsonLayer);
 
+		geojsonLayer.addGeoJSON(AsianChoir);
+		geojsonLayer.addGeoJSON(BarMitzvah);
 		geojsonLayer.addGeoJSON(CafeRimon);
+		geojsonLayer.addGeoJSON(GardenTomb);
 	
 		map.on('click', onMapClick);
 
