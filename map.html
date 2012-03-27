@@ -52,7 +52,7 @@
 					"id": 51
 				}
 			]
-		}
+		};
 
 		var AsianChoir = {
 			"type": "FeatureCollection",
@@ -69,10 +69,10 @@
                                         "id": 52
                                 }
                         ]
-		}
+		};
 
 		var BarMitzvah = {
-		"type": "FeatureCollection",
+			"type": "FeatureCollection",
                         "features": [
                                 {
                                         "geometry": {
@@ -86,7 +86,7 @@
                                         "id": 53
                                 }
                         ]
-		}
+		};
 
 		var GardenTomb = {
 		"type": "FeatureCollection",
@@ -104,7 +104,76 @@
                                         "id": 54
                                 }
                         ]
-		}
+		};
+
+		var MehaneYehuda = {
+    			"type": "Feature",
+    			"geometry": {
+        			"type": "LineString",
+        			"coordinates": [
+					[
+						35.21272921551004,
+						31.78578303319436
+					],
+					[
+						35.21274616676217,
+						31.785621996299074
+					],
+					[
+						35.21276311801431,
+						31.785388916582217
+					],
+					[
+						35.212780069266444,
+						31.78514312342626
+					],
+					[
+						35.21279702051858,
+						31.785028702474346
+					],
+					[
+						35.21282244739678,
+						31.784880379018166
+					],
+					[
+						35.21284363646195,
+						31.784757482440185
+					],
+					[
+						35.21283939864892,
+						31.784587969918835
+					],
+					[
+						35.21287753896622,
+						31.78442693302355
+					],
+					[
+						35.21290720365745,
+						31.78429979863254
+					],
+					[
+						35.212962295226895,
+						31.78415571298939
+					],
+					[
+						35.21311485649611,
+						31.783837877011855
+					]
+				]	
+
+			},
+			"properties": {
+        			"name": "MehaneYehuda",
+        			"style": {
+            				color: "#ffffff",
+            				weight: 4,
+            				opacity: 0.1
+        			},
+        			"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875098&amp;show_comments=false&amp;auto_play=false&amp;color=049d23'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875098&amp;show_comments=false&amp;auto_play=false&amp;color=049d23' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+    			},
+    			"id": 1
+		};
+
 
 		map.addLayer(geojsonLayer);
 
@@ -118,6 +187,7 @@
 		geojsonLayer.addGeoJSON(BarMitzvah);
 		geojsonLayer.addGeoJSON(CafeRimon);
 		geojsonLayer.addGeoJSON(GardenTomb);
+		geojsonLayer.addGeoJSON(MehaneYehuda);
 			
 	</script>
 </body>
