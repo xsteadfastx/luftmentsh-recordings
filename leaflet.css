@@ -321,13 +321,3 @@ a.leaflet-active {
 .leaflet-popup-close-button {
 	background: white url(images/popup-close.png);
 	}
-
-/* Own stuff */
-
-body {
-    padding: 0;
-    margin: 0;
-}
-html, body, #map {
-    height: 100%;
-}

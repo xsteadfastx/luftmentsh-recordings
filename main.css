@@ -1,0 +1,17 @@
+/* Own stuff */
+
+body {
+    padding: 0;
+    margin: 0;
+}
+html, body, #map {
+    height: 100%;
+}
+#desc {
+    position: absolute;
+    font-family: 'Dosis', sans-serif;
+    font-size: 60px;
+    z-index: 400;
+    bottom: 15px;
+    left: 10px;
+}
