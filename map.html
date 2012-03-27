@@ -240,6 +240,46 @@
                         "id": 2
 		};
 
+		var BenYehudaStreet = {
+    			"type": "Feature",
+    			"geometry": {
+        			"type": "LineString",
+        			"coordinates": [
+					[
+						35.22014302716046,
+						31.781710949991986
+					],
+					[
+						35.21970070292838,
+						31.781999069445913
+					],
+					[
+						35.219445047638274,
+						31.781877328831577
+					],
+					[
+						35.218734894054656,
+						31.781710949991986
+					],
+					[
+						35.217687924771376,
+						31.78149993292714
+					]
+
+				]
+			},
+			"properties": {
+        			"style": {
+					color: "#000",
+					weight: 4,
+            				opacity: 0.9
+        			},
+        			"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875095&amp;show_comments=false&amp;auto_play=false&amp;color=049d23'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875095&amp;show_comments=false&amp;auto_play=false&amp;color=049d23' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+    			},
+    			"id": 3
+
+		};
+
 		map.addLayer(geojsonLayer);
 
 		geojsonLayer.on("featureparse", function (e) {
@@ -262,6 +302,7 @@
 		geojsonLayer.addGeoJSON(GardenTomb);
 		geojsonLayer.addGeoJSON(MehaneYehuda);
 		geojsonLayer.addGeoJSON(JaffaToJewish);
+		geojsonLayer.addGeoJSON(BenYehudaStreet);
 			
 	</script>
 </body>
