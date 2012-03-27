@@ -9,9 +9,9 @@ html, body, #map {
 }
 #desc {
     position: absolute;
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Londrina Sketch', cursive;
     font-size: 60px;
     z-index: 400;
-    bottom: 15px;
+    bottom: 25px;
     left: 10px;
 }
