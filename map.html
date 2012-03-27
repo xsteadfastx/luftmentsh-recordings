@@ -173,6 +173,72 @@
     			"id": 1
 		};
 
+		var JaffaToJewish = {
+			"type": "Feature",
+   			"geometry": {
+    				"type": "LineString",
+    				"coordinates": [
+      					[
+						35.227318, 
+						31.776689
+					],
+					[
+						35.227650, 
+						31.776551
+					],
+					[
+						35.227996, 
+						31.776684
+					],
+					[
+						35.228577, 
+						31.776684
+					],
+					[
+						35.231166, 
+						31.776767
+					],
+					[
+						35.231179, 
+						31.776490
+					],
+					[
+						35.231103, 
+						31.776435
+					],
+					[
+						35.231051, 
+						31.776234
+					],
+					[
+						35.231010, 
+						31.775963
+					],
+					[
+						35.230953, 
+						31.775493
+					],
+					[
+						35.230907, 
+						31.775207
+					],
+					[
+						35.230890, 
+						31.774833
+					]
+     
+    				]
+   			},
+			"properties": {
+                                "style": {
+                                        color: "#000",
+                                        weight: 4,
+                                        opacity: 0.9
+                                },
+                                "popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875099&amp;show_comments=false&amp;auto_play=false&amp;color=049d23'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875099&amp;show_comments=false&amp;auto_play=false&amp;color=049d23' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+                        },
+                        "id": 2
+		};
 
 		map.addLayer(geojsonLayer);
 
@@ -195,6 +261,7 @@
 		geojsonLayer.addGeoJSON(CafeRimon);
 		geojsonLayer.addGeoJSON(GardenTomb);
 		geojsonLayer.addGeoJSON(MehaneYehuda);
+		geojsonLayer.addGeoJSON(JaffaToJewish);
 			
 	</script>
 </body>
