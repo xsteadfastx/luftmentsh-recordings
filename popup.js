@@ -56,6 +56,9 @@ function centerPopup(){
 
 //CONTROLLING EVENTS IN jQuery
 $(document).ready(function(){
+
+	centerPopup();
+	loadPopup();
 	
 	//LOADING POPUP
 	//Click the button event!
