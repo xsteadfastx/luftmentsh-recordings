@@ -7,7 +7,7 @@
 
 //SETTING UP OUR POPUP
 //0 means disabled; 1 means enabled;
-var popupStatus = 0;
+var popupStatus = 1;
 
 //loading popup with jQuery magic!
 function loadPopup(){
