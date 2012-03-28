@@ -43,10 +43,10 @@ html, body, #map {
     font-size:13px;
 }
 #popupContact h1{
+    font-family: 'Londrina Sketch', cursive;
     text-align:left;
     color:#6FA5FD;
-    font-size:22px;
-    font-weight:700;
+    font-size:35px;
     border-bottom:1px dotted #D3D3D3;
     padding-bottom:2px;
     margin-bottom:20px;
