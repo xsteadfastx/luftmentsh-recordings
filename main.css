@@ -61,3 +61,7 @@ html, body, #map {
    font-weight:700;
    display:block;
 }
+
+#clickme,#clickcontent{
+   font-weight:bold;
+}
