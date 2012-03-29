@@ -93,7 +93,7 @@ var HaKotel = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875102&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875102&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+				"popupContent": "<img src='./images/HaKotel.png'><br /><object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875102&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875102&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 			},
 			"id": 56
 		}
