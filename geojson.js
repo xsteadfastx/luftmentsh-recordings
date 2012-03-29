@@ -8,7 +8,7 @@ var CafeRimon = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875090&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875090&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed></object>"
+				"popupContent": "<img src='./images/CafeRimon.png'><br /><object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875090&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875090&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed></object>"
 			},
 			"id": 51
 		}
@@ -177,7 +177,7 @@ var MehaneYehuda = {
        		"style": {
 			color: "#007f4b",
 			weight: 6,
-       			opacity: 1
+       			opacity: 0.9
        		},
        		"popupContent": "<img src='./images/MehaneYehuda.png'><br /><b>Mahane Yehuda Market</b> (Hebrew: שוק מחנה יהודה‎, Shuk Mahane Yehuda), often referred to as 'The Shuk', is an outdoor marketplace in Jerusalem, Israel. Popular with locals and tourists alike, the market's more than 250 vendors sell fresh fruits and vegetables; baked goods; fish, meat and cheeses; nuts, seeds, and spices; wines and liquors; clothing and shoes; housewares, textiles, and Judaica. In and around the market are falafel and shawarma stands, juice bars, cafes, and meat restaurants. The color and bustle of the marketplace is accentuated by vendors who call out their prices to passersby. On Thursdays and Fridays, the marketplace is filled with shoppers stocking up for Shabbat.<br /><object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875098&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875098&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
     	},
@@ -243,7 +243,7 @@ var JaffaToJewish = {
 	"style": {
 		color: "#007f4b",
 		weight: 6,
-		opacity: 1
+		opacity: 0.9
 	},
 	"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875099&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875099&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 	},
@@ -281,7 +281,7 @@ var BenYehudaStreet = {
 			"style": {
 				color: "#007f4b",
 				weight: 6,
-            			opacity: 1
+            			opacity: 0.9
         		},
         		"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875095&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875095&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 		},
@@ -343,7 +343,7 @@ var JohanniterToDamascus = {
 		"style": {
 			color: "#007f4b",
 			weight: 6,
-            		opacity: 1
+            		opacity: 0.9
         	},
         	"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875101&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875101&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 	},
@@ -429,7 +429,7 @@ var JewishToGoldenMenorah = {
 		"style": {
 			color: "#007f4b",
 			weight: 6,
-            		opacity: 1
+            		opacity: 0.9
         	},
         	"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875091&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875091&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 	},
