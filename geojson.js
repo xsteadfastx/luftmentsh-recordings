@@ -315,3 +315,89 @@ var JohanniterToDamascus = {
 	},
     	"id": 4
 };
+
+var JewishToGoldenMenorah = {
+	"type": "Feature",
+	"geometry": {
+		"type": "LineString",
+		"coordinates": [
+			[
+				35.231333, 
+				31.775464
+			],
+			[
+				35.231514, 
+				31.775458
+			],
+			[
+				35.231597, 
+				31.775458
+			],
+			[
+				35.231689, 
+				31.775455
+			],
+			[
+				35.231867, 
+				31.775473
+			],
+			[
+				35.231927, 
+				31.775498
+			],
+			[
+				35.231999, 
+				31.775516
+			],
+			[
+				35.232054, 
+				31.775507
+			],
+			[
+				35.232177, 
+				31.775527
+			],
+			[
+				35.232335, 
+				31.775550
+			],
+			[
+				35.232475, 
+				31.775573
+			],
+			[
+				35.232593, 
+				31.775605
+			],
+			[
+				35.232808, 
+				31.775688
+			],
+			[
+				35.232886, 
+				31.775094
+			],
+			[
+				35.233061, 
+				31.775232
+			],
+			[
+				35.233049, 
+				31.775516
+			],
+			[
+				35.233279, 
+				31.775484
+			]
+		]
+	},
+	"properties": {
+		"style": {
+			color: "#3366CC",
+			weight: 6,
+            		opacity: 0.5
+        	},
+        	"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875091&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875091&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+	},
+    	"id": 5
+};
