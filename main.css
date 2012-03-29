@@ -11,6 +11,7 @@ html, body, #map {
     position: absolute;
     font-family: 'Londrina Sketch', cursive;
     font-size: 60px;
+    color:#007f4b;
     z-index: 1;
     bottom: 25px;
     left: 10px;
