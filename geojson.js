@@ -59,7 +59,7 @@ var GardenTomb = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875093&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875093&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+				"popupContent": "<img src='./images/GardenTomb.png'><br /><object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875093&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875093&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 			},
 			"id": 54
 		}
@@ -345,7 +345,7 @@ var JohanniterToDamascus = {
 			weight: 6,
             		opacity: 0.9
         	},
-        	"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875101&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875101&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+        	"popupContent": "<img src='./images/Johanniter.png'><br /><object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875101&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875101&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 	},
     	"id": 4
 };
