@@ -8,7 +8,7 @@ var CafeRimon = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875090&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875090&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed></object>"
+				"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875090&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875090&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed></object>"
 			},
 			"id": 51
 		}
@@ -25,7 +25,7 @@ var AsianChoir = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875092&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875092&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+				"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875092&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875092&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 			},
 			"id": 52
 		}
@@ -42,7 +42,7 @@ var BarMitzvah = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875094%3Fsecret_token%3Ds-oBdvw&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875094%3Fsecret_token%3Ds-oBdvw&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+				"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875094%3Fsecret_token%3Ds-oBdvw&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875094%3Fsecret_token%3Ds-oBdvw&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 			},
 			"id": 53
 		}
@@ -59,7 +59,7 @@ var GardenTomb = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875093&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875093&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+				"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875093&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875093&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 			},
 			"id": 54
 		}
@@ -76,7 +76,7 @@ var HolySepulchre = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<img src='./images/HolySepulchre.png'><br />The <b>Church of the Holy Sepulchre</b>, also called the Church of the Resurrection by Eastern Christians, is a church within the walled Old City of Jerusalem. It is a few steps away from the Muristan. The site is venerated as Golgotha (the Hill of Calvary), where Jesus was crucified, and is said also to contain the place where Jesus was buried (the sepulchre). The church has been an important Christian pilgrimage destination since at least the 4th century, as the purported site of the resurrection of Jesus. Today it also serves as the headquarters of the Greek Orthodox Patriarch of Jerusalem, while control of the building is shared between several Christian churches and secular entities in complicated arrangements essentially unchanged for centuries. Today, the church is home to Eastern Orthodoxy, Oriental Orthodoxy and Roman Catholicism. Anglican and Protestant Christians have no permanent presence in the church. <a href='http://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre'><img src='./images/wikipedia.png'></a><br /><object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875103&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875103&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+				"popupContent": "<img src='./images/HolySepulchre.png'><br />The <b>Church of the Holy Sepulchre</b>, also called the Church of the Resurrection by Eastern Christians, is a church within the walled Old City of Jerusalem. It is a few steps away from the Muristan. The site is venerated as Golgotha (the Hill of Calvary), where Jesus was crucified, and is said also to contain the place where Jesus was buried (the sepulchre). The church has been an important Christian pilgrimage destination since at least the 4th century, as the purported site of the resurrection of Jesus. Today it also serves as the headquarters of the Greek Orthodox Patriarch of Jerusalem, while control of the building is shared between several Christian churches and secular entities in complicated arrangements essentially unchanged for centuries. Today, the church is home to Eastern Orthodoxy, Oriental Orthodoxy and Roman Catholicism. Anglican and Protestant Christians have no permanent presence in the church. <a href='http://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre'><img src='./images/wikipedia.png'></a><br /><object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875103&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875103&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 			},
 			"id": 55
 		}
@@ -93,7 +93,7 @@ var HaKotel = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<img src='./images/HaKotel.png'><br /><object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875102&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875102&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+				"popupContent": "<img src='./images/HaKotel.png'><br /><object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875102&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875102&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 			},
 			"id": 56
 		}
@@ -110,7 +110,7 @@ var DrummersGoldenMenorah = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<img src='./images/GoldenMenorah.png'><br /><object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875096&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875096&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+				"popupContent": "<img src='./images/GoldenMenorah.png'><br /><object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875096&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875096&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 			},
 			"id": 57
 		}
@@ -175,11 +175,11 @@ var MehaneYehuda = {
 	},
 	"properties": {
        		"style": {
-			color: "#3366CC",
+			color: "#007f4b",
 			weight: 6,
-       			opacity: 0.5
+       			opacity: 1
        		},
-       		"popupContent": "<img src='./images/MehaneYehuda.png'><br /><b>Mahane Yehuda Market</b> (Hebrew: שוק מחנה יהודה‎, Shuk Mahane Yehuda), often referred to as 'The Shuk', is an outdoor marketplace in Jerusalem, Israel. Popular with locals and tourists alike, the market's more than 250 vendors sell fresh fruits and vegetables; baked goods; fish, meat and cheeses; nuts, seeds, and spices; wines and liquors; clothing and shoes; housewares, textiles, and Judaica. In and around the market are falafel and shawarma stands, juice bars, cafes, and meat restaurants. The color and bustle of the marketplace is accentuated by vendors who call out their prices to passersby. On Thursdays and Fridays, the marketplace is filled with shoppers stocking up for Shabbat.<br /><object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875098&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875098&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+       		"popupContent": "<img src='./images/MehaneYehuda.png'><br /><b>Mahane Yehuda Market</b> (Hebrew: שוק מחנה יהודה‎, Shuk Mahane Yehuda), often referred to as 'The Shuk', is an outdoor marketplace in Jerusalem, Israel. Popular with locals and tourists alike, the market's more than 250 vendors sell fresh fruits and vegetables; baked goods; fish, meat and cheeses; nuts, seeds, and spices; wines and liquors; clothing and shoes; housewares, textiles, and Judaica. In and around the market are falafel and shawarma stands, juice bars, cafes, and meat restaurants. The color and bustle of the marketplace is accentuated by vendors who call out their prices to passersby. On Thursdays and Fridays, the marketplace is filled with shoppers stocking up for Shabbat.<br /><object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875098&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875098&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
     	},
    	"id": 1
 };
@@ -241,11 +241,11 @@ var JaffaToJewish = {
    	},
 	"properties": {
 	"style": {
-		color: "#3366CC",
+		color: "#007f4b",
 		weight: 6,
-		opacity: 0.5
+		opacity: 1
 	},
-	"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875099&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875099&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+	"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875099&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875099&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 	},
 	"id": 2
 };
@@ -279,11 +279,11 @@ var BenYehudaStreet = {
 		},
 		"properties": {
 			"style": {
-				color: "#3366CC",
+				color: "#007f4b",
 				weight: 6,
-            			opacity: 0.5
+            			opacity: 1
         		},
-        		"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875095&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875095&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+        		"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875095&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875095&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 		},
     		"id": 3
 };
@@ -341,11 +341,11 @@ var JohanniterToDamascus = {
 	},
 	"properties": {
 		"style": {
-			color: "#3366CC",
+			color: "#007f4b",
 			weight: 6,
-            		opacity: 0.5
+            		opacity: 1
         	},
-        	"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875101&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875101&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+        	"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875101&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875101&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 	},
     	"id": 4
 };
@@ -427,11 +427,11 @@ var JewishToGoldenMenorah = {
 	},
 	"properties": {
 		"style": {
-			color: "#3366CC",
+			color: "#007f4b",
 			weight: 6,
-            		opacity: 0.5
+            		opacity: 1
         	},
-        	"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875091&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875091&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+        	"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875091&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875091&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 	},
     	"id": 5
 };
