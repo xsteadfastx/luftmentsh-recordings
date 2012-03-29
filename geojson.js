@@ -253,3 +253,65 @@ var BenYehudaStreet = {
 		},
     		"id": 3
 };
+
+var JohanniterToDamascus = {
+	"type": "Feature",
+	"geometry": {
+		"type": "LineString",
+		"coordinates": [
+			[
+				35.230714, 
+				31.779241
+			],
+			[
+				35.230896, 
+				31.779267
+			],
+			[
+				35.231264, 
+				31.779252
+			],
+			[
+				35.231832, 
+				31.779445
+			],
+			[
+				35.232407, 
+				31.779580
+			],
+			[
+				35.232076, 
+				31.779951
+			],
+			[
+				35.231631, 
+				31.780366
+			],
+			[
+				35.231475, 
+				31.780497
+			],
+			[
+				35.231355, 
+				31.780592
+			],
+			[
+				35.230809, 
+				31.781182
+			],
+			[
+				35.230183, 
+				31.781782
+			]
+		]
+	},
+	"properties": {
+		"style": {
+			color: "#3366CC",
+			weight: 6,
+            		opacity: 0.5
+        	},
+        	"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875095&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875095&amp;show_comments=false&amp;auto_play=false&amp;color=3366CC' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+	},
+    	"id": 4
+};
