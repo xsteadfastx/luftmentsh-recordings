@@ -245,7 +245,7 @@ var JaffaToJewish = {
 		weight: 6,
 		opacity: 0.9
 	},
-	"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875099&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875099&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+	"popupContent": "<img src='./images/JaffaGate.png'><br /><object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875099&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875099&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 	},
 	"id": 2
 };
@@ -431,7 +431,7 @@ var JewishToGoldenMenorah = {
 			weight: 6,
             		opacity: 0.9
         	},
-        	"popupContent": "<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875091&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875091&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
+        	"popupContent": "<img src='./images/JewishQuarter.png'><br /><object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875091&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b'></param> <param name='allowscriptaccess' value='always'></param> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875091&amp;show_comments=false&amp;auto_play=false&amp;color=007f4b' type='application/x-shockwave-flash' width='100%'></embed> </object>"
 	},
     	"id": 5
 };
