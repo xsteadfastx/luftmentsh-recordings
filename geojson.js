@@ -175,7 +175,7 @@ var MehaneYehuda = {
 	},
 	"properties": {
        		"style": {
-			color: "#007f4b",
+			color: "#3366CC",
 			weight: 6,
        			opacity: 0.9
        		},
@@ -241,7 +241,7 @@ var JaffaToJewish = {
    	},
 	"properties": {
 	"style": {
-		color: "#007f4b",
+		color: "#3366CC",
 		weight: 6,
 		opacity: 0.9
 	},
@@ -279,7 +279,7 @@ var BenYehudaStreet = {
 		},
 		"properties": {
 			"style": {
-				color: "#007f4b",
+				color: "#3366CC",
 				weight: 6,
             			opacity: 0.9
         		},
@@ -341,7 +341,7 @@ var JohanniterToDamascus = {
 	},
 	"properties": {
 		"style": {
-			color: "#007f4b",
+			color: "#3366CC",
 			weight: 6,
             		opacity: 0.9
         	},
@@ -427,7 +427,7 @@ var JewishToGoldenMenorah = {
 	},
 	"properties": {
 		"style": {
-			color: "#007f4b",
+			color: "#3366CC",
 			weight: 6,
             		opacity: 0.9
         	},

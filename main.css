@@ -11,7 +11,7 @@ html, body, #map {
     position: absolute;
     font-family: 'Londrina Sketch', cursive;
     font-size: 60px;
-    color:#007f4b;
+    color:#3366CC;
     z-index: 1;
     bottom: 25px;
     left: 10px;
@@ -46,7 +46,7 @@ html, body, #map {
 #popupContact h1{
     font-family: 'Londrina Sketch', cursive;
     text-align:left;
-    color:#007f4b;
+    color:#3366CC;
     font-size:35px;
     border-bottom:1px dotted #D3D3D3;
     padding-bottom:2px;
