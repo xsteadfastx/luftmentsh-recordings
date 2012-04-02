@@ -85,11 +85,4 @@ $(document).ready(function(){
 		}
 	});
 
-	// CLICK
-	$('#clickme').click(function() {
-  		$('#clickcontent').slideDown('slow', function() {
-    		// Animation complete.
-  		});
-	});
-
 });
