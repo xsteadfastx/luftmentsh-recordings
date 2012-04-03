@@ -283,7 +283,7 @@ var BenYehudaStreet = {
 				weight: 6,
             			opacity: 0.9
         		},
-        		"popupContent": "<iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875095&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 05.01.2011"
+        		"popupContent": "<iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875095&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 08.01.2011"
 		},
     		"id": 3
 };
