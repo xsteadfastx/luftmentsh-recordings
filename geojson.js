@@ -8,7 +8,7 @@ var CafeRimon = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<img src='./images/CafeRimon.png'><br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875090&amp;auto_play=false&amp;show_artwork=false&amp;color=3366CC'></iframe><br />Aufgenommen am 06.01.2011"
+				"popupContent": "<img src='./images/CafeRimon.png'><br />Wir versuchten soviel Zeit wie m&ouml;glich in dieser Einkaufsstra&szlig;e zu verbringen. Wir genossen die Cafes und es vergingen manchmal ganze Nachmittage im Flug. Wir liebten das <strong>Cafe Rimon</strong>. Christine musste f&uuml;r ihr Examen lernen und ich trank einfach Cafe Latte mit Soja Milch und lass ein Buch. Wir suchten uns immer den besten Platz aus. Mei&szlig;t unter einen Hei&szlig;strahler. Es tat einfach gut. Wir machten diese Aufnahme um die Stimmung einzufangen. Es ist wie Musik im Ohr die Sprache Ivrit zu h&ouml;ren. <br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875090&amp;auto_play=false&amp;show_artwork=false&amp;color=3366CC'></iframe><br />Aufgenommen am 06.01.2011"
 			},
 			"id": 51
 		}
@@ -283,7 +283,7 @@ var BenYehudaStreet = {
 				weight: 6,
             			opacity: 0.9
         		},
-        		"popupContent": "<iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875095&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 08.01.2011"
+        		"popupContent": "Jeden Abend nach Shabbat erwacht die Hauptstrasse des modernen Judentums zum leben. Nach Einbruch der Dunkelheit &ouml;fnnen die Gesch&auml;fte und die Menschen gehen ins Kino oder sitzen in den Cafes der Stra&szlig;e. Wenn ich in Jerusalem bin versuche ich jeden Shabbat dort auf der <strong>Ben Yehuda Stra&szlig;e</strong> zu verbringen. Man riecht das frisch gebackene Brot und hört wie die Menschen diesen Abend feiern. Viele Musiker versuchen ein paar Shekel mit ihrer Kunst zu verdienen. Ich liebe die Stimmung der Stra&szlig;e. Der Kontrast zu der Shabbath-Ruhe in der Altstadt.<br/><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875095&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 08.01.2011"
 		},
     		"id": 3
 };
