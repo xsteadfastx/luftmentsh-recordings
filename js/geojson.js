@@ -25,7 +25,7 @@ var AsianChoir = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875092&amp;auto_play=false&amp;show_artwork=true&amp;color=3366cc'></iframe><br />Aufgenommen am 08.01.2011"
+				"popupContent": "Die Straße Ben Yehuda ist nach dem Shabbat voll. Und was besonders Spass macht sind die vielen verschiedenen Strassenmusiker. Ein riesiges Highlight war ein Chor aus Asien die Lieder auf kereanisch gesungen haben. Man konnte garnicht anders als sich dar&uuml;ber zu freuen. Nicht nur wir hatten ein breites Grinsen auf unseren Lippen, es wurden schnukelnde Menschenketten gebildet oder auch getanzt.<br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875092&amp;auto_play=false&amp;show_artwork=true&amp;color=3366cc'></iframe><br />Aufgenommen am 08.01.2011"
 			},
 			"id": 52
 		}
