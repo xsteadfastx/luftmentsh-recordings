@@ -59,7 +59,7 @@ var GardenTomb = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<img src='./images/GardenTomb.png'><br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875093&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 07.01.2011"
+				"popupContent": "<img src='./images/GardenTomb.png'><br />Mitten in Ost-Jerusalem, gegen&uuml;ber eines arabischen Busbahnhofes liegt diese kleine Oase. Das <strong>Gartengrab</strong>. Ein wundersch&ouml;ner angelegt Garten gelegen zwischen L&auml;rm und Dreck. Einige Christen glauben daran das dies das wahre Grab Jesu sei. Viele glauben das auch nicht. Dies ist ein Segen f&uuml;r dieses kleine Paradies. Schnell ist die Athmosphere der Grabeskirche vergessen. Zwischen Palmen und anderen Pflanzen sind kleine Pl&auml;tze angelegt an denen man sich zur&uuml;ck ziehen kann. Man ist umgeben von Reisegruppen, Menschen die Gottesdienste feiern. Aus jeder Ecke h&ouml;rt man Lobpreis-Lieder.<br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875093&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 07.01.2011"
 			},
 			"id": 54
 		}
