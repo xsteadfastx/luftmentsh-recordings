@@ -115,7 +115,7 @@
 
                 geojsonLayer.on("featureparse", function (e) {
                         if (e.properties && e.properties.popupContent){
-                                e.layer.bindPopup(e.properties.popupContent);
+                                e.layer.bindPopup(e.properties.popupContent, {maxWidth: 450});
                         }
                         
                 });
