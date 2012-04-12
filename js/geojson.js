@@ -345,7 +345,7 @@ var JohanniterToDamascus = {
 			weight: 6,
             		opacity: 0.9
         	},
-        	"popupContent": "<img src='./images/Johanniter.png'><br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875101&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 07.01.2011"
+        	"popupContent": "<img src='./images/Johanniter.png'><br />Das war das dritte mal das ich im <strong>Johanniter Hospitz</strong> meinen Israel Urlaub verbrachte. Das Geb&auml;ude bietet schon seit vielen Jahrzehnten Pilgern einen Schlafplatz. Seit einiger Zeit wird es von dem Christus-Treff Marburg geleitet. Eine riesige Eisent&uuml;r trennt einen von dem Getummel der Altstadt. Geht man die Treppen herauf geht man in Richtung des Jaffa Gates. Wir gingen diesen Tag die Treppen nach unten. Durch enge Gassen entlang, rechts und links kleine bunte gesch&auml;fte, Gew&uuml;rze, Spielsachen, Lebensmittel. An einigen engen Passagen scheint man vor Menschen nicht mehr durchzukommen. K&auml;mpft man sich weiter durch erreicht man irgendwann das <strong>Damaksustor</strong>.<br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875101&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 07.01.2011"
 	},
     	"id": 4
 };
