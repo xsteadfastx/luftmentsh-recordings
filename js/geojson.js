@@ -42,7 +42,7 @@ var BarMitzvah = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875094%3Fsecret_token%3Ds-oBdvw&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 06.01.2011"
+				"popupContent": "Christine und ich hatten immer viel Gl&uuml;ck. Jedes mal wenn wir unser Aufnahmeger&auml;t rausholten ist auch immer etwas Besonderes passiert. Christine und ich waren in der j&uuml;dischen Altstadt essen. Ein Cafe &uuml;ber der Stadt. Wir h&ouml;rten unter uns schon lautes Singen und Getrommel. Es war eine <strong>Bar Mitzvah</strong>. Eine ganze Familie zog durch die Altstadt und feierten den Jungen und seinen grossen Tag.<br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875094%3Fsecret_token%3Ds-oBdvw&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 06.01.2011"
 			},
 			"id": 53
 		}
@@ -245,7 +245,7 @@ var JaffaToJewish = {
 		weight: 6,
 		opacity: 0.9
 	},
-	"popupContent": "<img src='./images/JaffaGate.png'><br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875099&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 06.01.2011"
+	"popupContent": "<img src='./images/JaffaGate.png'><br />Die ersten Schritte in der Jerusalemer Alstadt macht man mei&szlig;tens durch das <strong>Jaffa Gate</strong>. Direkt an dem Tourismusb&uuml;ro geht es vorbei in die engen Verkaufsgassen der Altstadt. Aus den kleinen L&auml;den h&ouml;rt man die Touristen wie sie verhandeln. Die durch Millionen von Schuhsollen blank polierten Steine unten den F&uuml;&szlig;en. Es ist glatt. So tiefer man in den Strassen herabgeht umso dunkler wird es. Die Strasse ist &uuml;berdacht. Nur einen Schritt weiter und man befindet sich im j&uuml;dischen Viertel. Feine L&auml;den. Alte S&auml;ulen. Eine Strasse aus Jesu Zeiten...<br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875099&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 06.01.2011"
 	},
 	"id": 2
 };
