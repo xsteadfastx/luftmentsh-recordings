@@ -110,7 +110,7 @@ var DrummersGoldenMenorah = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<img src='./images/GoldenMenorah.png'><br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875096&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 06.01.2011"
+				"popupContent": "<img src='./images/GoldenMenorah.png'><br />Die <strong>Goldene Menorah</strong> steht nur ein paar Meter von der Klagemauer entfernt. Sie wurde angefertigt um in dem kommenden dritten Tempel zu stehen. Bis dahin ist sie zwischen dem j&uuml;dischen Viertel und der Klagemauer, hinter Glas, ausgestellt. Ab und zu treffen sich dort Strassenmusiker oder wie an diesem Nachmittag Trommler die vorher schon durch das ganze Viertel gezogen sind.<br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875096&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 06.01.2011"
 			},
 			"id": 57
 		}
@@ -431,7 +431,7 @@ var JewishToGoldenMenorah = {
 			weight: 6,
             		opacity: 0.9
         	},
-        	"popupContent": "<img src='./images/JewishQuarter.png'><br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875091&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 06.01.2011"
+        	"popupContent": "<img src='./images/JewishQuarter.png'><br />An einem sonnigen Januar Tag im <strong>j&uuml;dischen Viertel</strong> liefen wir mit unserem Aufnahmeger&auml;t einer Gruppe von Trommlern hinterher. Bis zur <strong>goldenen Menorah</strong>. Das Viertel ist voll mit Sandstein-Geb&auml;uden, engen Gassen und sogar Orangenb&auml;umen. Eigentlich will man genau da seinen ganzen Tag verbringen.<br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875091&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 06.01.2011"
 	},
     	"id": 5
 };
