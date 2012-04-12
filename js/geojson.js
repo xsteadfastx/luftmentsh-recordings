@@ -93,7 +93,7 @@ var HaKotel = {
 			},
 			"type": "Feature",
 			"properties": {
-				"popupContent": "<img src='./images/HaKotel.png'><br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875102&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 11.01.2011"
+				"popupContent": "<img src='./images/HaKotel.png'><br />Worte k&ouml;nnen diesen Ort kaum beschreiben. Manchmal ist die <strong>Klagemauer</strong> so voll das man kaum an sie heran treten kann, manchmal ist die Zeit sehr intim und intensiv. Ich liebe es Nachts an die Klagemauer zu gehen. Einzellne Gruppen orthodoxer Juden beten und singen zusammen. Man h&ouml;rt wie die Plastikst&uuml;hle von den Helfern zusammen ger&auml;umt werden. Es ist der Ort an den ich immer wieder zur&uuml;ck kommen will.<br /><iframe width='100%' height='166' scrolling='no' frameborder='no' src='http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F33875102&amp;auto_play=false&amp;show_artwork=false&amp;color=3366cc'></iframe><br />Aufgenommen am 11.01.2011"
 			},
 			"id": 56
 		}
