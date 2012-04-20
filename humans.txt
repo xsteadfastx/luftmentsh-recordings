@@ -10,7 +10,7 @@ Twitter: @sojasplash
 Location: Nuremberg, Germany
 
 /*  THANKS */
-JHWH
+HaSchem
 
 /* SITE */
 Standards: HTML5, CSS
